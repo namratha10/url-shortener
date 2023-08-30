@@ -1,1 +1,1 @@
-web: gunicorn url_shortener:create_app()
+web: gunicorn -w 4 "url_shortener:create_app()"
