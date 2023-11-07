@@ -23,27 +23,17 @@ Welcome! This project is built using Flask, a Python web framework, and it allow
 
 <h3>Installation</h3>
 
-<ol>
-  <li>Clone this repository to your local machine:</li>
-  ```
-  git clone git@github.com:namratha10/url-shortener.git
-  ```
+1. Clone this repository to your local machine:</li>
+  `git clone git@github.com:namratha10/url-shortener.git`
 
-  <li>Install the required dependencies using pip (or pipenv if you are using it):</li>
-  ```
-  pip install -r requirements.txt
-  ```
-</ol>
+2. Install the required dependencies using pip (or pipenv if you are using it):</li>
+  `pip install -r requirements.txt`
 
 <h3>Usage</h3>
 
-<ol>
-    <li>Configure the necessary environment variables.</li>
-    <li>Run the application using Flask's development server:</li>
-  ```
-  flask run
-  ```
-</ol>
+1. Configure the necessary environment variables.
+2. Run the application using Flask's development server:
+  `flask run`
 
 <h3>Configuration</h3>
 
