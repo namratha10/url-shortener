@@ -25,10 +25,14 @@ Welcome! This project is built using Flask, a Python web framework, and it allow
 
 <ol>
   <li>Clone this repository to your local machine:</li>
-    ```git clone git@github.com:namratha10/url-shortener.git```
+  ```
+  git clone git@github.com:namratha10/url-shortener.git
+  ```
 
   <li>Install the required dependencies using pip (or pipenv if you are using it):</li>
-    ```pip install -r requirements.txt```
+  ```
+  pip install -r requirements.txt
+  ```
 </ol>
 
 <h3>Usage</h3>
@@ -36,7 +40,9 @@ Welcome! This project is built using Flask, a Python web framework, and it allow
 <ol>
     <li>Configure the necessary environment variables.</li>
     <li>Run the application using Flask's development server:</li>
-    ```flask run```
+  ```
+  flask run
+  ```
 </ol>
 
 <h3>Configuration</h3>
